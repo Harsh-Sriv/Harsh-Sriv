@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm Harsh Srivastava, a third-year B.Tech Computer Science student specializing in IoT. Passionate about AI, ML, and IoT, I love building projects that merge software and hardware to solve real-world problems. Currently, I'm an executive member of a tech club, taking initiative in diverse, dynamic projects.
+I'm Harsh Srivastava, a third-year B.Tech Computer Science student specializing in IoT. Passionate about AI, ML, and IoT currently learning Front End Development, I love building projects that merge software and hardware to solve real-world problems. Currently, I'm an executive member of a tech club, taking initiative in diverse, dynamic projects.
 
 ## 🏆 Achievements & Experience
 
